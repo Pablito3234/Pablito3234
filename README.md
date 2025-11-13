@@ -1,13 +1,14 @@
 ## Welcome!!
 <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
 
-My name is Pablo and I love programming and developing. Currently learning Java and SQL Databases. I also love gaming and watching movies.
+My name is Pablo and I love programming and developing. Currently learning Pyhton and it´s framework Django. I also love gaming and watching movies.
 
 ## Languages/Technologies
-[![My Skills](https://skillicons.dev/icons?i=java,postgres,spring,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,spring,mysql,py,django&theme=dark)](https://skillicons.dev)
 
 ## Projects
-Currently working on the repository for the [Instituto Caldeira](https://institutocaldeira.org.br) Java Course
+- Discord Bot, using python module discord.py
+- SENAI College Course: Systems Analysis and Development
 
 
 
